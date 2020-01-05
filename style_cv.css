@@ -1,0 +1,35 @@
+body {
+  padding-top: 10px;
+  /*background-color: black;*/
+}
+[class*="col-"], footer {
+  background-color: black;
+  border: 0.5px solid gray;
+  border-radius: 6px;
+  line-height: 40px;
+  /*text-align: center;*/
+}
+#portole{
+	background-color: silver;
+}
+h1{
+	text-align: center;
+	color: #ecee45;
+}
+h3{
+	color: #e0e0d3;
+}
+.titre{
+	font-size: 15px;
+	color: #2bc0f1;
+	text-decoration: underline;
+}
+.valeur{
+	font-size: 20px;
+	font-weight: bold;
+	color: #0cf2b9;
+}
+.perso{
+	word-spacing: 15px;
+	letter-spacing: 5px;
+}
